@@ -6,6 +6,7 @@ void test (){}
 
 int main()
 {
+    printf ("mew\n");
     printf("Hello world!\n");
     return 0;
 }
